@@ -11,10 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Australian shares versus property!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Compare long term returns of Exchange Traded Funds  vs residential real estate
         </p>
+    
+    <iframe src="https://designer.spreadsheetweb.com/a/aus-shares-vs-property-v6" width="800" height="1200"></iframe>
+    
       </main>
 
       <Footer />
