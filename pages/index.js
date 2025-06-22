@@ -16,7 +16,7 @@ export default function Home() {
           Compare long term returns of Exchange Traded Funds  vs residential real estate
         </p>
     
-    <iframe src="https://designer.spreadsheetweb.com/a/aus-shares-vs-property-v6" width="800" height="1400"></iframe>
+    <iframe src="https://designer.spreadsheetweb.com/a/aus-shares-vs-property-v6" width="400" height="1400"></iframe>
     
       </main>
 
