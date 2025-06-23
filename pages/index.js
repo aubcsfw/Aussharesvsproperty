@@ -12,9 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="Australian shares versus property!" />
-        <p className="description"> Long term returns, ETFs vs. residential real estate. DYOR.</p>
+        <p className="description">  </p>
     
-    <iframe src="https://designer.spreadsheetweb.com/a/aus-shares-vs-property-v6" width="460" height="800"></iframe>
+    <iframe src="https://designer.spreadsheetweb.com/a/aus-shares-vs-property-v6" width="460" height="700"></iframe>
     
       </main>
 
