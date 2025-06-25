@@ -11,14 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-    <style>
-        iframe {
-            width: 90%;
-            height: 700px;
-            border: none;
-        }
-    </style>
-    <iframe src="https://designer.spreadsheetweb.com/a/aus-shares-vs-property-1"></iframe>
+  
+    <iframe src="https://designer.spreadsheetweb.com/a/aus-shares-vs-property-1" style=”height: 700px; width: 90%; border=0px;”></iframe>
     
       </main>
 
