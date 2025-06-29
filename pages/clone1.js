@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
   
-    <iframe src="https://designer.spreadsheetweb.com/a/aus-shares-vs-property-1" width="460" height="700"></iframe>
+    <iframe src="https://designer.spreadsheetweb.com/a/aus-shares-vs-property" width="460" height="700"></iframe>
     
       </main>
 
