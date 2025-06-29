@@ -13,13 +13,7 @@ export default function Home() {
       <main>
   
     <iframe src="https://designer.spreadsheetweb.com/a/aus-shares-vs-property-1" width="460" height="700"></iframe>
-       <p>  </p><br>
-      <p>If not working, below are two clones. Each of the three identical calculator are limited to 300 uses/ mo </p>
-      <iframe src="https://designer.spreadsheetweb.com/a/aus-shares-vs-property-1" width="460" height="700"></iframe>
-       <p>  </p><br>
-      <iframe src="https://designer.spreadsheetweb.com/a/aus-shares-vs-property-v6" width="460" height="700"></iframe>
-    </body>
-      </main>
+         
       </main>
 
       <Footer />
